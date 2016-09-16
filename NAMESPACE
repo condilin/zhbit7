@@ -1,0 +1,2 @@
+import("lmtest","leaps")
+exportPattern("^[[:alpha:]]+")

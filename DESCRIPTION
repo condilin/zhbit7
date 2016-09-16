@@ -1,0 +1,15 @@
+Package: zhbit7
+Type: Package
+Title: Regression method set
+Version: 2.2
+Date: 2016-07-01
+Author: JinQuan Lin
+Maintainer: JinQuan Lin <yourfault@somewhere.net>
+Description: Zhbit7 package is used to set the regression method,Mainly applied regression analysis of this book.
+Depends: lmtest,leaps
+LazyData: true
+License: GPL(>=2)
+NeedsCompilation: yes
+Repository: CRAN
+LazyLoad: yes
+Packaged: 2016-07-01 02:40:17 UTC; Administrator
