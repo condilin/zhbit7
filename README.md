@@ -4,4 +4,4 @@ You can install rCharts from github using the devtools package
 
 require(devtools)
 
-install_github('ramnathv/rCharts')
+install_github('jinimp/zhbit7')
